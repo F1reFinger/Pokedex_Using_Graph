@@ -1,2 +1,2 @@
-# Pokedex_Using_Graph
+# Pokedex Using Graph
 a pokedex created using graphs in python
